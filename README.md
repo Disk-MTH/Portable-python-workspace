@@ -1,7 +1,7 @@
 ### Portable python workspace (3.10-x64)
 
 
-/!\ The original (python copyright)[https://www.python.org/] applies here!
+/!\ The original [python copyright](https://www.python.org/) applies here!
 
 
 For the usage of this workspace check [here](https://github.com/Disk-MTH/Portable-python-workspace/blob/master/diskmth/README.md).
