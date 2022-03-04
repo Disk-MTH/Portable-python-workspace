@@ -4,7 +4,7 @@
 /!\ The original [python copyright](https://www.python.org/) applies here!
 
 
-For the usage of this workspace check [here](https://github.com/Disk-MTH/Portable-python-workspace/blob/master/diskmth/README.md).
+For the usage of this workspace check [here](https://github.com/Disk-MTH/Portable-python-workspace).
 
 ## License
 
