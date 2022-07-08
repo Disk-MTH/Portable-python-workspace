@@ -1,4 +1,4 @@
-### Portable python workspace (3.10.0-x64)
+### Portable python workspace (3.10.5-x64)
 
 
 /!\ The original [python copyright](https://www.python.org/) applies here!
